@@ -1,4 +1,3 @@
-Pygame Projects
 Welcome to the Pygame repository! Follow these simple instructions to run the projects.
 
 Prerequisites
