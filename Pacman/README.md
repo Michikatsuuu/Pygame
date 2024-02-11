@@ -1,4 +1,4 @@
-                                      Here how it looks
+Here how it looks
 
 
 
